@@ -1,0 +1,20 @@
+img {
+  height: 400px;
+  width: 700px;
+}
+h1  {
+  text-align: center;
+  color: purple;
+  text-shadow: 2px 2px pink;
+  font-family: cursive;
+  font-size: 45px;
+}
+h3 {
+  font-size: 35px;
+}
+div {
+  font-family: fantasy;
+  color: blue;
+  display: inline-block;
+  text-align: center;
+}
